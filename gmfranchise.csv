@@ -1,0 +1,183 @@
+﻿franchise,category,revenueb,revenue
+Pokemon,Video Games,17138,17.14
+Pokemon,Card Games,10853,10.85
+Pokemon,Box Office,1756,1.76
+Pokemon,Literature,1460,1.46
+Pokemon,Retail & Licensing,64100,64.1
+Pokemon,Home Entertainment,863,0.86
+Pokemon,Other,0,0
+Hello Kitty,Video Games,0,0
+Hello Kitty,Card Games,0,0
+Hello Kitty,Box Office,0,0
+Hello Kitty,Literature,23,0.02
+Hello Kitty,Retail & Licensing,80000,80
+Hello Kitty,Home Entertainment,0,0
+Hello Kitty,Other,3,0
+Winnie The Pooh,Video Games,0,0
+Winnie The Pooh,Card Games,0,0
+Winnie The Pooh,Box Office,460,0.46
+Winnie The Pooh,Literature,0,0
+Winnie The Pooh,Retail & Licensing,74515,74.52
+Winnie The Pooh,Home Entertainment,59,0.06
+Winnie The Pooh,Other,0,0
+Mickey Mouse,Video Games,0,0
+Mickey Mouse,Card Games,0,0
+Mickey Mouse,Box Office,457,0.46
+Mickey Mouse,Literature,0,0
+Mickey Mouse,Retail & Licensing,69850,69.85
+Mickey Mouse,Home Entertainment,280,0.28
+Mickey Mouse,Other,0,0
+Star Wars,Video Games,4964,4.96
+Star Wars,Card Games,0,0
+Star Wars,Box Office,9491,9.49
+Star Wars,Literature,1820,1.82
+Star Wars,Retail & Licensing,40294,40.29
+Star Wars,Home Entertainment,9337,9.34
+Star Wars,Other,0,0
+Anpanman,Video Games,0,0
+Anpanman,Card Games,0,0
+Anpanman,Box Office,67,0.07
+Anpanman,Literature,0,0
+Anpanman,Retail & Licensing,60218,60.22
+Anpanman,Home Entertainment,0,0
+Anpanman,Other,0,0
+Disney Princesses,Video Games,0,0
+Disney Princesses,Card Games,0,0
+Disney Princesses,Box Office,0,0
+Disney Princesses,Literature,0,0
+Disney Princesses,Retail & Licensing,44645,44.65
+Disney Princesses,Home Entertainment,42,0.04
+Disney Princesses,Other,0,0
+Shonen Jump,Video Games,217,0.22
+Shonen Jump,Card Games,0,0
+Shonen Jump,Box Office,0,0
+Shonen Jump,Literature,39714,39.71
+Shonen Jump,Retail & Licensing,0,0
+Shonen Jump,Home Entertainment,0,0
+Shonen Jump,Other,0,0
+Mario,Video Games,30250,30.25
+Mario,Card Games,0,0
+Mario,Box Office,21,0.02
+Mario,Literature,1549,1.55
+Mario,Retail & Licensing,4323,4.32
+Mario,Home Entertainment,0,0
+Mario,Other,0,0
+Marvel Universe,Video Games,0,0
+Marvel Universe,Card Games,0,0
+Marvel Universe,Box Office,22535,22.54
+Marvel Universe,Literature,0.5,0
+Marvel Universe,Retail & Licensing,5430,5.43
+Marvel Universe,Home Entertainment,5254,5.25
+Marvel Universe,Other,0,0
+Harry Potter,Video Games,1555,1.56
+Harry Potter,Card Games,0,0
+Harry Potter,Box Office,9191,9.19
+Harry Potter,Literature,7743,7.74
+Harry Potter,Retail & Licensing,7308,7.31
+Harry Potter,Home Entertainment,3966,3.97
+Harry Potter,Other,108,0.11
+Spider-Man,Video Games,1650,1.65
+Spider-Man,Card Games,0,0
+Spider-Man,Box Office,7059,7.06
+Spider-Man,Literature,1074,1.07
+Spider-Man,Retail & Licensing,14805,14.81
+Spider-Man,Home Entertainment,2954,2.95
+Spider-Man,Other,520,0.52
+Gundam,Video Games,1650,1.65
+Gundam,Card Games,0,0
+Gundam,Box Office,7059,7.06
+Gundam,Literature,1074,1.07
+Gundam,Retail & Licensing,14805,14.81
+Gundam,Home Entertainment,2954,2.95
+Gundam,Other,520,0.52
+Batman,Video Games,0,0
+Batman,Card Games,0,0
+Batman,Box Office,4994,4.99
+Batman,Literature,0,0
+Batman,Retail & Licensing,18990,18.99
+Batman,Home Entertainment,1252,1.25
+Batman,Other,0,0
+Dragon Ball,Video Games,5585,5.59
+Dragon Ball,Card Games,961,0.96
+Dragon Ball,Box Office,817,0.82
+Dragon Ball,Literature,9250,9.25
+Dragon Ball,Retail & Licensing,5737,5.74
+Dragon Ball,Home Entertainment,1943,1.94
+Dragon Ball,Other,47,0.05
+Barbie,Video Games,0,0
+Barbie,Card Games,0,0
+Barbie,Box Office,5100,5.1
+Barbie,Literature,0,0
+Barbie,Retail & Licensing,22010,22.01
+Barbie,Home Entertainment,1988,1.99
+Barbie,Other,0,0
+Fist of the North Star,Video Games,373,0.37
+Fist of the North Star,Card Games,0,0
+Fist of the North Star,Box Office,32,0.03
+Fist of the North Star,Literature,3748,3.75
+Fist of the North Star,Retail & Licensing,26,0.03
+Fist of the North Star,Home Entertainment,37,0.04
+Fist of the North Star,Other,17602,17.6
+Cars,Video Games,0,0
+Cars,Card Games,0,0
+Cars,Box Office,2026,2.03
+Cars,Literature,0,0
+Cars,Retail & Licensing,19114,19.11
+Cars,Home Entertainment,654,0.65
+Cars,Other,0,0
+One Piece,Video Games,1627,1.63
+One Piece,Card Games,0,0
+One Piece,Box Office,433,0.43
+One Piece,Literature,11432,11.43
+One Piece,Retail & Licensing,5904,5.9
+One Piece,Home Entertainment,1187,1.19
+One Piece,Other,0,0
+Toy Story,Video Games,0,0
+Toy Story,Card Games,0,0
+Toy Story,Box Office,2841,2.84
+Toy Story,Literature,0,0
+Toy Story,Retail & Licensing,17100,17.1
+Toy Story,Home Entertainment,540,0.54
+Toy Story,Other,0,0
+Yu-Gi-Oh!,Video Games,329,0.33
+Yu-Gi-Oh!,Card Games,11161,11.16
+Yu-Gi-Oh!,Box Office,42,0.04
+Yu-Gi-Oh!,Literature,3820,3.82
+Yu-Gi-Oh!,Retail & Licensing,4477,4.48
+Yu-Gi-Oh!,Home Entertainment,152,0.15
+Yu-Gi-Oh!,Other,0,0
+Lord of the Rings,Video Games,62,0.06
+Lord of the Rings,Card Games,0,0
+Lord of the Rings,Box Office,5896,5.9
+Lord of the Rings,Literature,9125,9.13
+Lord of the Rings,Retail & Licensing,660,0.66
+Lord of the Rings,Home Entertainment,4194,4.19
+Lord of the Rings,Other,0,0
+James Bond,Video Games,351,0.35
+James Bond,Card Games,0,0
+James Bond,Box Office,7078,7.08
+James Bond,Literature,550,0.55
+James Bond,Retail & Licensing,3060,3.06
+James Bond,Home Entertainment,3060,3.06
+James Bond,Other,0,0
+Peanuts,Video Games,0,0
+Peanuts,Card Games,0,0
+Peanuts,Box Office,250,0.25
+Peanuts,Literature,0,0
+Peanuts,Retail & Licensing,17143,17.14
+Peanuts,Home Entertainment,35,0.04
+Peanuts,Other,0,0
+Transformers,Video Games,0,0
+Transformers,Card Games,0,0
+Transformers,Box Office,4700,4.7
+Transformers,Literature,0,0
+Transformers,Retail & Licensing,11780,11.78
+Transformers,Home Entertainment,740,0.74
+Transformers,Other,0,0
+Call of Duty,Video Games,17000,17
+Call of Duty,Card Games,0,0
+Call of Duty,Box Office,0,0
+Call of Duty,Literature,0,0
+Call of Duty,Retail & Licensing,0,0
+Call of Duty,Home Entertainment,0,0
+Call of Duty,Other,0,0
